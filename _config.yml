@@ -12,13 +12,13 @@ github_repo: "https://github.com/ych10/ych10.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Keep going!"
-sidebar-avatar: img/me.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/me.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-RSS: false
-# weibo_username:     qiubaiying
+RSS: true
+weibo_username:     404
 # zhihu_username:     qiubaiying
 # github_username:    qiubaiying
 # facebook_username:  baiying.qiu.7
@@ -98,6 +98,10 @@ service-worker: true
 
 # Friends
 friends: [
+  {
+        title: "ChatGPT",
+        href: "https://chat.openai.com"
+    },
   {
         title: "Apple",
         href: "https://apple.com"
