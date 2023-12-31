@@ -101,9 +101,5 @@ friends: [
   {
         title: "ChatGPT",
         href: "https://chat.openai.com"
-    },
-  {
-        title: "Apple",
-        href: "https://apple.com"
     }
 ]
